@@ -1,0 +1,17 @@
+.sidebar-container{
+    width: 65px;
+    height: 100vh;
+    border-right: 1px solid #f4f4f4;
+}
+.sidebar-icons{
+    display: flex;
+    flex-direction: column; 
+}
+.sidebar-icons img{
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.sidebar-icons img:hover{
+    background-color: pink;
+}
+
